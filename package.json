@@ -1,0 +1,34 @@
+{
+  "name": "octopus",
+  "version": "0.0.1",
+  "description": "Octopus is an application for spiding.",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanJiang233/octopus.git"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "IvanJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanJiang233/octopus/issues"
+  },
+  "homepage": "https://github.com/IvanJiang233/octopus#readme",
+  "devDependencies": {
+    "async": "^2.6.0",
+    "cheerio": "^1.0.0-rc.2",
+    "eslint": "^4.16.0",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-react": "^7.5.1",
+    "eslint-plugin-standard": "^3.0.1",
+    "superagent": "^3.8.2"
+  }
+}
